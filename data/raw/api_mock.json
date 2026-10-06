@@ -1,0 +1,56 @@
+[
+  {
+    "student_id": 1001,
+    "gpa": 3.45,
+    "attendance": 92,
+    "status": "Active"
+  },
+  {
+    "student_id": 1002,
+    "gpa": 3.82,
+    "attendance": 88,
+    "status": "Active"
+  },
+  {
+    "student_id": 1003,
+    "gpa": 2.75,
+    "attendance": 79,
+    "status": "Active"
+  },
+  {
+    "student_id": 1004,
+    "gpa": 3.1,
+    "attendance": 74,
+    "status": "Active"
+  },
+  {
+    "student_id": 1005,
+    "gpa": 3.5,
+    "attendance": 95,
+    "status": "Active"
+  },
+  {
+    "student_id": 1006,
+    "gpa": 4.2,
+    "attendance": 90,
+    "status": "Active"
+  },
+  {
+    "student_id": 1007,
+    "gpa": null,
+    "attendance": 70,
+    "status": "Active"
+  },
+  {
+    "student_id": 1008,
+    "gpa": 2.1,
+    "attendance": 105,
+    "status": "Active"
+  },
+  {
+    "student_id": 1009,
+    "gpa": 1.8,
+    "attendance": 65,
+    "status": "Inactive"
+  }
+]

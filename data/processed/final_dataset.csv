@@ -1,0 +1,10 @@
+student_id,student_name,age,major,city,gpa,attendance,status,courses_count,courses,semesters,avg_score,performance_level,attendance_status
+1001,Ahmed Ali,21,Computer Science,Sanaa,3.45,92.0,Active,2,Data Engineering | Python Programming,2026-S1 | 2026-S1,89.5,Very Good,Good
+1002,Sara Mohammed,22,Artificial Intelligence,Aden,3.82,88.0,Active,2,Data Engineering | Database Systems,2026-S1 | 2026-S1,92.0,Excellent,Good
+1003,Omar Hassan,20,Information Systems,Taiz,2.75,79.0,Active,1,Python Programming,2026-S1,76.0,Good,Good
+1004,Lina Salem,23,Computer Science,Sanaa,3.1,74.0,Active,1,Data Engineering,2026-S1,72.0,Very Good,Low
+1005,Mohammed Ali,17,Data Science,Sanaa,3.5,95.0,Active,1,Database Systems,2026-S1,94.0,Excellent,Good
+1006,Nour Ahmed,21,Cyber Security,Aden,3.1,90.0,Active,1,Data Engineering,2026-S1,78.5,Very Good,Good
+1007,Yara Saleh,19,Artificial Intelligence,Taiz,3.1,70.0,Active,1,Python Programming,2026-S1,68.0,Very Good,Low
+1008,Khaled Omar,21,Information Systems,Sanaa,2.1,83.5,Active,1,Database Systems,2026-S1,81.0,Acceptable,Good
+1009,Huda Nasser,25,Computer Science,Aden,1.8,65.0,Inactive,1,Data Engineering,2026-S1,55.0,At Risk,Low

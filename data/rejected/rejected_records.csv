@@ -1,0 +1,15 @@
+student_id,error_reason,source,field,old_value,corrected_value,action
+1006,Invalid Age,CSV,,,,
+1004,Duplicate student_id,CSV,,,,
+1006,Invalid GPA,API,,,,
+1008,Invalid Attendance,API,,,,
+1006,Invalid Score,DATABASE,,,,
+1013,,,age,,,
+1021,,,attendance,,,
+1014,,,performance_level,,,
+1006,Invalid Age,CSV,age,81.0,21.0,Corrected with median age
+1008,Missing Age,CSV,age,,21.0,Filled with median age
+1006,Invalid GPA,API,gpa,4.2,3.1,Corrected with median GPA
+1007,Missing GPA,API,gpa,,3.1,Filled with median GPA
+1008,Invalid Attendance,API,attendance,105,83.5,Corrected with median attendance
+1006,Invalid Score,DATABASE,avg_score,110.0,78.5,Corrected with median score

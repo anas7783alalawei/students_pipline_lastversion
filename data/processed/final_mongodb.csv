@@ -1,0 +1,13 @@
+student_id,student_name,age,major,city,gpa,attendance,status,courses_count,avg_score,courses,semesters,performance_level,attendance_status,email
+1010,Ahmed Ali,21,Computer Science,Sana'A,3.4,92,Active,5,84.5,"['Python', 'Database', 'Networks']",6,Good,Excellent,ahmed.ali@example.com
+1011,Mohammed Hassan,22,Information Technology,Aden,3.1,88,Active,5,79.5,"['Programming', 'Web Development']",6,Good,Good,mohammed.hassan@example.com
+1012,Omar Saleh,20,Computer Science,Taiz,3.7,95,Active,6,91.2,"['Python', 'AI', 'Database']",5,Excellent,Excellent,omar.saleh@example.com
+1013,Ali Mohammed,22,Information Systems,Ibb,3.4,89,Active,5,81.5,"['Systems Analysis', 'Database']",6,Good,Good,ali.mohammed@example.com
+1014,Yousef Ahmed,23,Unknown,Sana'A,2.8,84,Active,4,72.5,"['Software Engineering', 'Testing']",7,Average,Good,yousef.ahmed@example.com
+1015,Khaled Abdullah,21,Computer Science,Hodeidah,3.2,91,Active,5,83.0,"['Python', 'Algorithms']",6,Good,Excellent,khaled.abdullah@example.com
+1016,Saleh Ibrahim,22,Information Technology,Dhamar,3.0,87,Active,5,77.5,"['Networks', 'Security']",6,Good,Good,saleh.ibrahim@example.com
+1017,Abdullah Nasser,24,Unknown,Aden,2.6,79,Active,4,68.5,"['Programming', 'Software Design']",8,Average,Average,abdullah.nasser@example.com
+1018,Hassan Ali,20,Computer Science,Taiz,3.8,96,Active,6,93.0,"['AI', 'Machine Learning', 'Python']",5,Excellent,Excellent,hassan.ali@example.com
+1019,Fahad Salem,22,Information Systems,Ibb,3.3,90,Active,5,85.0,"['Database', 'Systems Analysis']",6,Good,Excellent,fahad.salem@example.com
+1020,Nabil Hassan,21,Computer Science,Sana'A,3.5,93,Active,5,87.5,"['Python', 'Algorithms', 'Database']",6,Good,Excellent,nabil.hassan@example.com
+1021,Samir Ahmed,22,Unknown,Hodeidah,3.1,89%,Active,5,80.5,"['Software Engineering', 'Testing']",6,Good,Good,samir.ahmed@example.com

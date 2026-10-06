@@ -1,0 +1,370 @@
+2026-09-22 10:40:16,589 INFO Pipeline started
+2026-09-22 10:40:16,590 INFO CSV extraction started
+2026-09-22 10:40:16,596 INFO CSV records: 10
+2026-09-22 10:40:16,619 INFO API extraction started
+2026-09-22 10:40:16,630 INFO API records: 9
+2026-09-22 10:40:17,138 INFO Database extraction started
+2026-09-22 10:40:17,144 INFO Database records: 9
+2026-09-22 10:42:45,414 INFO Pipeline started
+2026-09-22 10:42:45,415 INFO CSV extraction started
+2026-09-22 10:42:45,422 INFO CSV records: 10
+2026-09-22 10:42:45,447 INFO API extraction started
+2026-09-22 10:42:45,461 INFO API records: 9
+2026-09-22 10:42:45,976 INFO Database extraction started
+2026-09-22 10:42:45,981 INFO Database records: 9
+2026-09-22 07:54:02,534 INFO Pipeline started
+2026-09-22 07:54:02,535 INFO CSV extraction started
+2026-09-22 07:54:02,538 INFO CSV records: 10
+2026-09-22 07:54:02,540 INFO API extraction started
+2026-09-22 07:54:02,543 INFO API records: 9
+2026-09-22 07:54:03,043 INFO Database extraction started
+2026-09-22 07:54:03,045 INFO Database records: 9
+2026-09-22 07:54:20,083 INFO Pipeline started
+2026-09-22 07:54:20,084 INFO CSV extraction started
+2026-09-22 07:54:20,086 INFO CSV records: 10
+2026-09-22 07:54:20,088 INFO API extraction started
+2026-09-22 07:54:20,092 INFO API records: 9
+2026-09-22 07:54:20,592 INFO Database extraction started
+2026-09-22 07:54:20,594 INFO Database records: 9
+2026-09-22 07:54:20,633 INFO Validation completed
+2026-09-22 07:54:20,633 INFO Final dataset created: 9 records
+2026-09-22 07:54:20,633 INFO PIPELINE EXECUTION SUMMARY | CSV=10 API=9 DB=9 Integrated=9 Valid=9 Rejected=11 DuplicateCSV=1 ProcessingTime=0.55s
+2026-09-22 07:54:27,604 INFO Pipeline started
+2026-09-22 07:54:27,604 INFO CSV extraction started
+2026-09-22 07:54:27,607 INFO CSV records: 10
+2026-09-22 07:54:27,609 INFO API extraction started
+2026-09-22 07:54:27,612 INFO API records: 9
+2026-09-22 07:54:28,112 INFO Database extraction started
+2026-09-22 07:54:28,114 INFO Database records: 9
+2026-09-22 07:54:28,149 INFO Validation completed
+2026-09-22 07:54:28,149 INFO Final dataset created: 9 records
+2026-09-22 07:54:28,150 INFO PIPELINE EXECUTION SUMMARY | CSV=10 API=9 DB=9 Integrated=9 Valid=9 Rejected=11 DuplicateCSV=1 ProcessingTime=0.55s
+2026-09-22 10:57:15,829 INFO Pipeline started
+2026-09-22 10:57:15,830 INFO CSV extraction started
+2026-09-22 10:57:15,836 INFO CSV records: 10
+2026-09-22 10:57:15,856 INFO API extraction started
+2026-09-22 10:57:15,869 INFO API records: 9
+2026-09-22 10:57:16,382 INFO Database extraction started
+2026-09-22 10:57:16,384 INFO Database records: 9
+2026-09-22 10:57:16,466 INFO Validation completed
+2026-09-22 10:57:16,466 INFO Final dataset created: 9 records
+2026-09-22 10:57:16,467 INFO PIPELINE EXECUTION SUMMARY | CSV=10 API=9 DB=9 Integrated=9 Valid=9 Rejected=11 DuplicateCSV=1 ProcessingTime=0.64s
+2026-10-05 16:56:44,226 INFO Pipeline started
+2026-10-05 16:56:44,226 INFO CSV extraction started
+2026-10-05 16:56:44,229 INFO CSV records: 10
+2026-10-05 16:56:44,236 INFO API extraction started
+2026-10-05 16:56:44,243 INFO API records: 9
+2026-10-05 16:56:44,754 INFO Database extraction started
+2026-10-05 16:56:44,756 INFO Database records: 9
+2026-10-05 16:56:44,826 INFO Validation completed
+2026-10-05 16:56:44,827 INFO Final dataset created: 9 records
+2026-10-05 16:56:44,827 INFO PIPELINE EXECUTION SUMMARY | CSV=10 API=9 DB=9 Integrated=9 Valid=9 Rejected=11 DuplicateCSV=1 ProcessingTime=0.60s
+2026-10-05 16:56:44,828 INFO MongoDB extraction started
+2026-10-05 16:56:44,872 INFO MongoDB records extracted: 12
+2026-10-05 23:23:28,166 INFO Pipeline started
+2026-10-05 23:23:28,167 INFO CSV extraction started
+2026-10-05 23:23:28,171 INFO CSV records: 10
+2026-10-05 23:23:28,183 INFO API extraction started
+2026-10-05 23:23:28,198 INFO API records: 9
+2026-10-05 23:23:28,709 INFO Database extraction started
+2026-10-05 23:23:28,725 INFO Database records: 9
+2026-10-05 23:23:28,808 INFO Validation completed
+2026-10-05 23:23:28,808 INFO Final dataset created: 9 records
+2026-10-05 23:23:28,809 INFO PIPELINE EXECUTION SUMMARY | CSV=10 API=9 DB=9 Integrated=9 Valid=9 Rejected=11 DuplicateCSV=1 ProcessingTime=0.64s
+2026-10-05 23:23:28,810 INFO MongoDB extraction started
+2026-10-05 23:23:34,150 ERROR MongoDB extraction failed: localhost:27017: [WinError 10061] No connection could be made because the target machine actively refused it (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms), Timeout: 5.0s, Topology Description: <TopologyDescription id: 6ac407409e0127bdddc7e248, topology_type: Unknown, servers: [<ServerDescription ('localhost', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('localhost:27017: [WinError 10061] No connection could be made because the target machine actively refused it (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>]>
+2026-10-05 23:26:07,393 INFO Pipeline started
+2026-10-05 23:26:07,394 INFO CSV extraction started
+2026-10-05 23:26:07,400 INFO CSV records: 10
+2026-10-05 23:26:07,424 INFO API extraction started
+2026-10-05 23:26:07,440 INFO API records: 9
+2026-10-05 23:26:07,945 INFO Database extraction started
+2026-10-05 23:26:07,949 INFO Database records: 9
+2026-10-05 23:26:08,063 INFO Validation completed
+2026-10-05 23:26:08,063 INFO Final dataset created: 9 records
+2026-10-05 23:26:08,065 INFO PIPELINE EXECUTION SUMMARY | CSV=10 API=9 DB=9 Integrated=9 Valid=9 Rejected=11 DuplicateCSV=1 ProcessingTime=0.67s
+2026-10-05 23:26:08,066 INFO MongoDB extraction started
+2026-10-05 23:26:13,271 ERROR MongoDB extraction failed: localhost:27017: [WinError 10061] No connection could be made because the target machine actively refused it (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms), Timeout: 5.0s, Topology Description: <TopologyDescription id: 6ac407e0b7769ecf3f5aeb32, topology_type: Unknown, servers: [<ServerDescription ('localhost', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('localhost:27017: [WinError 10061] No connection could be made because the target machine actively refused it (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>]>
+2026-10-06 05:36:43,133 INFO Pipeline started
+2026-10-06 05:36:43,134 INFO CSV extraction started
+2026-10-06 05:36:43,150 INFO CSV records: 10
+2026-10-06 05:36:43,173 INFO API extraction started
+2026-10-06 05:36:43,188 INFO API records: 9
+2026-10-06 05:36:43,688 INFO Database extraction started
+2026-10-06 05:36:43,705 INFO Database records: 9
+2026-10-06 05:36:43,814 INFO MongoDB extraction started
+2026-10-06 05:36:49,100 ERROR MongoDB extraction failed: localhost:27017: [WinError 10061] No connection could be made because the target machine actively refused it (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms), Timeout: 5.0s, Topology Description: <TopologyDescription id: 6ac45ebb792dd4b3fc2f1189, topology_type: Unknown, servers: [<ServerDescription ('localhost', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('localhost:27017: [WinError 10061] No connection could be made because the target machine actively refused it (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>]>
+2026-10-06 06:35:08,091 INFO Pipeline started
+2026-10-06 06:35:08,091 INFO CSV extraction started
+2026-10-06 06:35:08,097 INFO CSV records: 10
+2026-10-06 06:35:08,108 INFO API extraction started
+2026-10-06 06:35:08,119 INFO API records: 9
+2026-10-06 06:35:08,634 INFO Database extraction started
+2026-10-06 06:35:08,638 INFO Database records: 9
+2026-10-06 06:35:08,715 INFO MongoDB extraction started
+2026-10-06 06:35:09,778 INFO MongoDB records extracted: 10
+2026-10-06 06:35:09,837 INFO Web scraping skipped because WEB_SCRAPE_URL is not configured.
+2026-10-06 06:35:10,042 INFO MongoDB final load completed | matched=0 modified=0 inserted=0 upserts=18
+2026-10-06 06:35:10,093 INFO PIPELINE EXECUTION SUMMARY | CSV=10 API=9 SQLite=9 MongoSource=10 Web=0 Integrated=9 Final=18 Rejected=12 MongoLoaded=18 ProcessingTime=2.00s
+2026-10-06 06:54:33,687 INFO Pipeline started
+2026-10-06 06:54:33,688 INFO CSV extraction started
+2026-10-06 06:54:33,694 INFO CSV records: 10
+2026-10-06 06:54:33,704 INFO API extraction started
+2026-10-06 06:54:33,713 INFO API records: 9
+2026-10-06 06:54:34,216 INFO Database extraction started
+2026-10-06 06:54:34,220 INFO Database records: 9
+2026-10-06 06:54:34,295 INFO MongoDB extraction started
+2026-10-06 06:54:34,326 INFO MongoDB records extracted: 12
+2026-10-06 06:54:34,362 INFO Web scraping skipped because WEB_SCRAPE_URL is not configured.
+2026-10-06 06:54:34,485 ERROR MongoDB final load failed: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2026-10-06 06:58:36,717 INFO Pipeline started
+2026-10-06 06:58:36,718 INFO CSV extraction started
+2026-10-06 06:58:36,723 INFO CSV records: 10
+2026-10-06 06:58:36,733 INFO API extraction started
+2026-10-06 06:58:36,756 INFO API records: 9
+2026-10-06 06:58:37,261 INFO Database extraction started
+2026-10-06 06:58:37,268 INFO Database records: 9
+2026-10-06 06:58:37,411 INFO MongoDB extraction started
+2026-10-06 06:58:37,462 INFO MongoDB records extracted: 12
+2026-10-06 06:58:37,526 INFO Web scraping skipped because WEB_SCRAPE_URL is not configured.
+2026-10-06 06:58:37,679 ERROR MongoDB final load failed: name 'np' is not defined
+2026-10-06 06:59:49,425 INFO Pipeline started
+2026-10-06 06:59:49,426 INFO CSV extraction started
+2026-10-06 06:59:49,432 INFO CSV records: 10
+2026-10-06 06:59:49,444 INFO API extraction started
+2026-10-06 06:59:49,455 INFO API records: 9
+2026-10-06 06:59:49,959 INFO Database extraction started
+2026-10-06 06:59:49,964 INFO Database records: 9
+2026-10-06 06:59:50,042 INFO MongoDB extraction started
+2026-10-06 06:59:52,194 INFO MongoDB records extracted: 12
+2026-10-06 06:59:52,225 INFO Web scraping skipped because WEB_SCRAPE_URL is not configured.
+2026-10-06 06:59:52,314 INFO MongoDB final load completed | matched=16 modified=16 inserted=0 upserts=5
+2026-10-06 06:59:52,318 INFO PIPELINE EXECUTION SUMMARY | CSV=10 API=9 SQLite=9 MongoSource=12 Web=0 Integrated=9 Final=21 Rejected=11 MongoLoaded=21 ProcessingTime=2.89s
+2026-10-06 07:04:12,030 INFO Pipeline started
+2026-10-06 07:04:12,031 INFO CSV extraction started
+2026-10-06 07:04:12,039 INFO CSV records: 10
+2026-10-06 07:04:12,056 INFO API extraction started
+2026-10-06 07:04:12,071 INFO API records: 9
+2026-10-06 07:04:12,581 INFO Database extraction started
+2026-10-06 07:04:12,585 INFO Database records: 9
+2026-10-06 07:04:12,662 INFO MongoDB extraction started
+2026-10-06 07:04:12,727 INFO MongoDB records extracted: 12
+2026-10-06 07:04:12,762 INFO Web scraping skipped because WEB_SCRAPE_URL is not configured.
+2026-10-06 07:04:12,868 INFO MongoDB final load completed | matched=21 modified=21 inserted=0 upserts=0
+2026-10-06 07:04:12,872 INFO PIPELINE EXECUTION SUMMARY | CSV=10 API=9 SQLite=9 MongoSource=12 Web=0 Integrated=9 Final=21 Rejected=11 MongoLoaded=21 ProcessingTime=0.84s
+2026-10-06 07:14:19,970 INFO Pipeline started
+2026-10-06 07:14:19,970 INFO CSV extraction started
+2026-10-06 07:14:19,976 INFO CSV records: 10
+2026-10-06 07:14:19,988 INFO API extraction started
+2026-10-06 07:14:19,997 INFO API records: 9
+2026-10-06 07:14:20,508 INFO Database extraction started
+2026-10-06 07:14:20,513 INFO Database records: 9
+2026-10-06 07:14:20,614 INFO MongoDB extraction started
+2026-10-06 07:14:22,060 INFO MongoDB records extracted: 12
+2026-10-06 07:14:22,113 INFO Web scraping skipped because WEB_SCRAPE_URL is not configured.
+2026-10-06 07:14:22,220 INFO MongoDB final load completed | matched=21 modified=21 inserted=0 upserts=0
+2026-10-06 07:14:22,224 INFO PIPELINE EXECUTION SUMMARY | CSV=10 API=9 SQLite=9 MongoSource=12 Web=0 Integrated=9 Final=21 Rejected=11 MongoLoaded=21 ProcessingTime=2.25s
+2026-10-06 11:23:29,402 INFO Pipeline started
+2026-10-06 11:23:29,403 INFO CSV extraction started
+2026-10-06 11:23:29,406 INFO CSV records: 10
+2026-10-06 11:23:29,413 INFO API extraction started
+2026-10-06 11:23:29,419 INFO API records: 9
+2026-10-06 11:23:29,929 INFO Database extraction started
+2026-10-06 11:23:29,941 INFO Database records: 9
+2026-10-06 11:23:29,971 INFO MongoDB extraction started
+2026-10-06 11:23:30,011 INFO MongoDB records extracted: 12
+2026-10-06 11:23:30,036 INFO Web scraping skipped because WEB_SCRAPE_URL is not configured.
+2026-10-06 11:23:30,107 INFO MongoDB final load completed | matched=21 modified=21 inserted=0 upserts=0
+2026-10-06 11:23:30,108 INFO PIPELINE EXECUTION SUMMARY | CSV=10 API=9 SQLite=9 MongoSource=12 Web=0 Integrated=9 Final=21 Rejected=11 MongoLoaded=21 ProcessingTime=0.71s
+2026-10-06 11:56:30,669 INFO ================================================
+2026-10-06 11:56:30,670 INFO STUDENT DATA PIPELINE STARTED
+2026-10-06 11:56:30,670 INFO ================================================
+2026-10-06 11:56:30,671 INFO STEP 1: EXTRACTING ALL DATA SOURCES
+2026-10-06 11:56:30,671 INFO CSV extraction started
+2026-10-06 11:56:30,675 INFO CSV records: 10
+2026-10-06 11:56:30,682 INFO API extraction started
+2026-10-06 11:56:30,699 INFO API records: 9
+2026-10-06 11:56:31,198 INFO Database extraction started
+2026-10-06 11:56:31,200 INFO Database records: 9
+2026-10-06 11:56:31,201 INFO MongoDB extraction started
+2026-10-06 11:56:32,159 INFO MongoDB records extracted: 12
+2026-10-06 11:56:32,161 INFO Using built-in Web Scraping demo page.
+2026-10-06 11:56:32,161 INFO Web Scraping started: http://127.0.0.1:24381/students
+2026-10-06 11:56:54,747 INFO ================================================
+2026-10-06 11:56:54,747 INFO STUDENT DATA PIPELINE STARTED
+2026-10-06 11:56:54,747 INFO ================================================
+2026-10-06 11:56:54,748 INFO STEP 1: EXTRACTING ALL DATA SOURCES
+2026-10-06 11:56:54,748 INFO CSV extraction started
+2026-10-06 11:56:54,750 INFO CSV records: 10
+2026-10-06 11:56:54,788 INFO API extraction started
+2026-10-06 11:56:54,795 INFO API records: 9
+2026-10-06 11:56:55,297 INFO Database extraction started
+2026-10-06 11:56:55,299 INFO Database records: 9
+2026-10-06 11:56:55,299 INFO MongoDB extraction started
+2026-10-06 11:56:56,005 INFO MongoDB records extracted: 12
+2026-10-06 11:56:56,014 INFO Using built-in Web Scraping demo page.
+2026-10-06 11:56:56,015 INFO Web Scraping started: http://127.0.0.1:24517/students
+2026-10-06 11:58:33,101 INFO ================================================
+2026-10-06 11:58:33,102 INFO STUDENT DATA PIPELINE STARTED
+2026-10-06 11:58:33,102 INFO ================================================
+2026-10-06 11:58:33,103 INFO STEP 1: EXTRACTING ALL DATA SOURCES
+2026-10-06 11:58:33,103 INFO CSV extraction started
+2026-10-06 11:58:33,107 INFO CSV records: 10
+2026-10-06 11:58:33,118 INFO API extraction started
+2026-10-06 11:58:33,137 INFO API records: 9
+2026-10-06 11:58:33,832 INFO Database extraction started
+2026-10-06 11:58:33,836 INFO Database records: 9
+2026-10-06 11:58:33,837 INFO MongoDB extraction started
+2026-10-06 11:58:33,990 INFO MongoDB records extracted: 12
+2026-10-06 11:58:34,054 INFO Using built-in Web Scraping demo page.
+2026-10-06 11:58:34,056 INFO Web Scraping started: http://127.0.0.1:65250/students
+2026-10-06 12:00:30,009 INFO ================================================
+2026-10-06 12:00:30,010 INFO STUDENT DATA PIPELINE STARTED
+2026-10-06 12:00:30,011 INFO ================================================
+2026-10-06 12:00:30,011 INFO STEP 1: EXTRACTING ALL DATA SOURCES
+2026-10-06 12:00:30,011 INFO CSV extraction started
+2026-10-06 12:00:30,014 INFO CSV records: 10
+2026-10-06 12:00:30,020 INFO API extraction started
+2026-10-06 12:00:30,026 INFO API records: 9
+2026-10-06 12:00:30,527 INFO Database extraction started
+2026-10-06 12:00:30,529 INFO Database records: 9
+2026-10-06 12:00:30,530 INFO MongoDB extraction started
+2026-10-06 12:00:30,554 INFO MongoDB records extracted: 12
+2026-10-06 12:00:30,556 INFO Using built-in Web Scraping demo page.
+2026-10-06 12:00:30,556 INFO Web Scraping started: http://127.0.0.1:65425/students
+2026-10-06 12:01:46,315 INFO ================================================
+2026-10-06 12:01:46,315 INFO STUDENT DATA PIPELINE STARTED
+2026-10-06 12:01:46,316 INFO ================================================
+2026-10-06 12:01:46,316 INFO STEP 1: EXTRACTING ALL DATA SOURCES
+2026-10-06 12:01:46,316 INFO CSV extraction started
+2026-10-06 12:01:46,319 INFO CSV records: 10
+2026-10-06 12:01:46,328 INFO API extraction started
+2026-10-06 12:01:46,335 INFO API records: 9
+2026-10-06 12:01:46,835 INFO Database extraction started
+2026-10-06 12:01:46,837 INFO Database records: 9
+2026-10-06 12:01:46,837 INFO MongoDB extraction started
+2026-10-06 12:01:46,862 INFO MongoDB records extracted: 12
+2026-10-06 12:01:46,867 INFO Using built-in Web Scraping demo page.
+2026-10-06 12:01:46,867 INFO Web Scraping started: http://127.0.0.1:49125/students
+2026-10-06 12:02:42,780 INFO ================================================
+2026-10-06 12:02:42,781 INFO STUDENT DATA PIPELINE STARTED
+2026-10-06 12:02:42,781 INFO ================================================
+2026-10-06 12:02:42,782 INFO STEP 1: EXTRACTING ALL DATA SOURCES
+2026-10-06 12:02:42,782 INFO CSV extraction started
+2026-10-06 12:02:42,785 INFO CSV records: 10
+2026-10-06 12:02:42,803 INFO API extraction started
+2026-10-06 12:02:42,821 INFO API records: 9
+2026-10-06 12:02:43,320 INFO Database extraction started
+2026-10-06 12:02:43,323 INFO Database records: 9
+2026-10-06 12:02:43,323 INFO MongoDB extraction started
+2026-10-06 12:02:43,349 INFO MongoDB records extracted: 12
+2026-10-06 12:02:43,352 INFO Using built-in Web Scraping demo page.
+2026-10-06 12:02:43,352 INFO Web Scraping started: http://127.0.0.1:5372/students
+2026-10-06 12:02:43,372 INFO Web Scraping completed: 5 records
+2026-10-06 12:02:43,855 INFO All sources extracted successfully.
+2026-10-06 12:02:43,855 INFO STEP 2: VALIDATING SOURCE DATA
+2026-10-06 12:02:43,877 INFO STEP 3: CLEANING SOURCE DATA
+2026-10-06 12:02:43,889 INFO STEP 4: REPAIRING INVALID VALUES
+2026-10-06 12:02:56,732 INFO ================================================
+2026-10-06 12:02:56,733 INFO STUDENT DATA PIPELINE STARTED
+2026-10-06 12:02:56,733 INFO ================================================
+2026-10-06 12:02:56,733 INFO STEP 1: EXTRACTING ALL DATA SOURCES
+2026-10-06 12:02:56,734 INFO CSV extraction started
+2026-10-06 12:02:56,737 INFO CSV records: 10
+2026-10-06 12:02:56,743 INFO API extraction started
+2026-10-06 12:02:56,748 INFO API records: 9
+2026-10-06 12:02:57,247 INFO Database extraction started
+2026-10-06 12:02:57,250 INFO Database records: 9
+2026-10-06 12:02:57,250 INFO MongoDB extraction started
+2026-10-06 12:02:57,283 INFO MongoDB records extracted: 12
+2026-10-06 12:02:57,294 INFO Using built-in Web Scraping demo page.
+2026-10-06 12:02:57,294 INFO Web Scraping started: http://127.0.0.1:5382/students
+2026-10-06 12:02:57,320 INFO Web Scraping completed: 5 records
+2026-10-06 12:02:57,809 INFO All sources extracted successfully.
+2026-10-06 12:02:57,810 INFO STEP 2: VALIDATING SOURCE DATA
+2026-10-06 12:02:57,826 INFO STEP 3: CLEANING SOURCE DATA
+2026-10-06 12:02:57,839 INFO STEP 4: REPAIRING INVALID VALUES
+2026-10-06 12:43:53,614 INFO ================================================
+2026-10-06 12:43:53,615 INFO STUDENT DATA PIPELINE STARTED
+2026-10-06 12:43:53,616 INFO ================================================
+2026-10-06 12:43:53,617 INFO STEP 1: EXTRACTING ALL DATA SOURCES
+2026-10-06 12:43:53,618 INFO CSV extraction started
+2026-10-06 12:43:53,625 INFO CSV records: 10
+2026-10-06 12:43:53,645 INFO API extraction started
+2026-10-06 12:43:53,660 INFO API records: 9
+2026-10-06 12:43:54,158 INFO Database extraction started
+2026-10-06 12:43:54,165 INFO Database records: 9
+2026-10-06 12:43:54,165 INFO MongoDB extraction started
+2026-10-06 12:43:54,205 INFO MongoDB records extracted: 12
+2026-10-06 12:43:54,209 INFO Using built-in Web Scraping demo page.
+2026-10-06 12:43:54,210 INFO Web Scraping started: http://127.0.0.1:5671/students
+2026-10-06 12:43:54,252 INFO Web Scraping completed: 5 records
+2026-10-06 12:43:54,728 INFO All sources extracted successfully.
+2026-10-06 12:43:54,729 INFO STEP 2: VALIDATING SOURCE DATA
+2026-10-06 12:43:54,793 INFO STEP 3: CLEANING SOURCE DATA
+2026-10-06 12:43:54,840 INFO STEP 4: REPAIRING INVALID VALUES
+2026-10-06 12:43:54,883 INFO STEP 5: INTEGRATING CSV + API + SQLITE
+2026-10-06 12:43:54,892 INFO STEP 6: TRANSFORMING MAIN DATA
+2026-10-06 12:43:54,907 INFO STEP 7: INTEGRATING ALL SOURCES
+2026-10-06 12:43:54,987 INFO STEP 8: FINAL DATA TRANSFORMATION
+2026-10-06 12:43:54,999 INFO STEP 9: FINAL DATA VALIDATION
+2026-10-06 12:43:55,013 INFO STEP 10: LOADING FINAL DATA INTO MONGODB
+2026-10-06 12:43:55,060 INFO MongoDB final load completed.
+2026-10-06 12:43:55,061 INFO Inserted records: 26
+2026-10-06 12:43:55,062 INFO Database: student_data
+2026-10-06 12:43:55,063 INFO Collection: students_final
+2026-10-06 12:43:55,071 INFO ================================================
+2026-10-06 12:43:55,072 INFO PIPELINE COMPLETED SUCCESSFULLY
+2026-10-06 12:43:55,072 INFO CSV records       : 10
+2026-10-06 12:43:55,073 INFO API records       : 9
+2026-10-06 12:43:55,074 INFO SQLite records    : 9
+2026-10-06 12:43:55,075 INFO MongoDB records   : 12
+2026-10-06 12:43:55,075 INFO Web records       : 5
+2026-10-06 12:43:55,076 INFO Final records     : 26
+2026-10-06 12:43:55,077 INFO Rejected records  : 14
+2026-10-06 12:43:55,078 INFO MongoDB inserted  : 26
+2026-10-06 12:43:55,079 INFO Processing time   : 1.46 seconds
+2026-10-06 12:43:55,080 INFO Final collection  : students_final
+2026-10-06 12:43:55,081 INFO ================================================
+2026-10-06 13:28:48,134 INFO ================================================
+2026-10-06 13:28:48,135 INFO STUDENT DATA PIPELINE STARTED
+2026-10-06 13:28:48,135 INFO ================================================
+2026-10-06 13:28:48,135 INFO STEP 1: EXTRACTING ALL DATA SOURCES
+2026-10-06 13:28:48,136 INFO CSV extraction started
+2026-10-06 13:28:48,141 INFO CSV records: 10
+2026-10-06 13:28:48,151 INFO API extraction started
+2026-10-06 13:28:48,166 INFO API records: 9
+2026-10-06 13:28:48,669 INFO Database extraction started
+2026-10-06 13:28:48,681 INFO Database records: 9
+2026-10-06 13:28:48,682 INFO MongoDB extraction started
+2026-10-06 13:28:48,732 INFO MongoDB records extracted: 12
+2026-10-06 13:28:48,735 INFO Using built-in Web Scraping demo page.
+2026-10-06 13:28:48,736 INFO Web Scraping started: http://127.0.0.1:50478/students
+2026-10-06 13:28:48,809 INFO Web Scraping completed: 5 records
+2026-10-06 13:28:49,276 INFO All sources extracted successfully.
+2026-10-06 13:28:49,276 INFO STEP 2: VALIDATING SOURCE DATA
+2026-10-06 13:28:49,307 INFO STEP 3: CLEANING SOURCE DATA
+2026-10-06 13:28:49,328 INFO STEP 4: REPAIRING INVALID VALUES
+2026-10-06 13:28:49,355 INFO STEP 5: INTEGRATING CSV + API + SQLITE
+2026-10-06 13:28:49,359 INFO STEP 6: TRANSFORMING MAIN DATA
+2026-10-06 13:28:49,366 INFO STEP 7: INTEGRATING ALL SOURCES
+2026-10-06 13:28:49,420 INFO STEP 8: FINAL DATA TRANSFORMATION
+2026-10-06 13:28:49,428 INFO STEP 9: FINAL DATA VALIDATION
+2026-10-06 13:28:49,436 INFO STEP 10: LOADING FINAL DATA INTO MONGODB
+2026-10-06 13:28:49,477 INFO MongoDB final load completed.
+2026-10-06 13:28:49,477 INFO Inserted records: 26
+2026-10-06 13:28:49,478 INFO Database: student_data
+2026-10-06 13:28:49,478 INFO Collection: students_final
+2026-10-06 13:28:49,489 INFO ================================================
+2026-10-06 13:28:49,489 INFO PIPELINE COMPLETED SUCCESSFULLY
+2026-10-06 13:28:49,490 INFO CSV records       : 10
+2026-10-06 13:28:49,490 INFO API records       : 9
+2026-10-06 13:28:49,491 INFO SQLite records    : 9
+2026-10-06 13:28:49,491 INFO MongoDB records   : 12
+2026-10-06 13:28:49,492 INFO Web records       : 5
+2026-10-06 13:28:49,492 INFO Final records     : 26
+2026-10-06 13:28:49,492 INFO Rejected records  : 14
+2026-10-06 13:28:49,493 INFO MongoDB inserted  : 26
+2026-10-06 13:28:49,493 INFO Processing time   : 1.36 seconds
+2026-10-06 13:28:49,494 INFO Final collection  : students_final
+2026-10-06 13:28:49,494 INFO ================================================

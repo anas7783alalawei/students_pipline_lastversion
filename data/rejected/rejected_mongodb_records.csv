@@ -1,0 +1,4 @@
+row,student_id,field,error
+3,1013,age,Age must be a number
+11,1021,attendance,Attendance must be a number without %
+4,1014,performance_level,Performance level does not match avg_score

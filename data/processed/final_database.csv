@@ -1,0 +1,22 @@
+student_id,student_name,age,major,city,gpa,attendance,status,courses_count,avg_score,courses,semesters,performance_level,attendance_status,email
+1001,Ahmed Ali,21,Computer Science,Sanaa,3.45,92.0,Active,2.0,89.5,Data Engineering | Python Programming,2026-S1 | 2026-S1,Very Good,Good,
+1002,Sara Mohammed,22,Artificial Intelligence,Aden,3.82,88.0,Active,2.0,92.0,Data Engineering | Database Systems,2026-S1 | 2026-S1,Excellent,Good,
+1003,Omar Hassan,20,Information Systems,Taiz,2.75,79.0,Active,1.0,76.0,Python Programming,2026-S1,Good,Good,
+1004,Lina Salem,23,Computer Science,Sanaa,3.1,74.0,Active,1.0,72.0,Data Engineering,2026-S1,Very Good,Low,
+1005,Mohammed Ali,17,Data Science,Sanaa,3.5,95.0,Active,1.0,94.0,Database Systems,2026-S1,Excellent,Good,
+1006,Nour Ahmed,21,Cyber Security,Aden,3.1,90.0,Active,1.0,78.5,Data Engineering,2026-S1,Very Good,Good,
+1007,Yara Saleh,19,Artificial Intelligence,Taiz,3.1,70.0,Active,1.0,68.0,Python Programming,2026-S1,Very Good,Low,
+1008,Khaled Omar,21,Information Systems,Sanaa,2.1,83.5,Active,1.0,81.0,Database Systems,2026-S1,Acceptable,Good,
+1009,Huda Nasser,25,Computer Science,Aden,1.8,65.0,Inactive,1.0,55.0,Data Engineering,2026-S1,At Risk,Low,
+1010,Ahmed Ali,21,Computer Science,Sana'A,3.4,92.0,Active,5.0,84.5,"['Python', 'Database', 'Networks']",6.0,Very Good,Good,ahmed.ali@example.com
+1011,Mohammed Hassan,22,Information Technology,Aden,3.1,88.0,Active,5.0,79.5,"['Programming', 'Web Development']",6.0,Very Good,Good,mohammed.hassan@example.com
+1012,Omar Saleh,20,Computer Science,Taiz,3.7,95.0,Active,6.0,91.2,"['Python', 'AI', 'Database']",5.0,Excellent,Good,omar.saleh@example.com
+1013,Ali Mohammed,22,Information Systems,Ibb,3.4,89.0,Active,5.0,81.5,"['Systems Analysis', 'Database']",6.0,Very Good,Good,ali.mohammed@example.com
+1014,Yousef Ahmed,23,Unknown,Sana'A,2.8,84.0,Active,4.0,72.5,"['Software Engineering', 'Testing']",7.0,Good,Good,yousef.ahmed@example.com
+1015,Khaled Abdullah,21,Computer Science,Hodeidah,3.2,91.0,Active,5.0,83.0,"['Python', 'Algorithms']",6.0,Very Good,Good,khaled.abdullah@example.com
+1016,Saleh Ibrahim,22,Information Technology,Dhamar,3.0,87.0,Active,5.0,77.5,"['Networks', 'Security']",6.0,Very Good,Good,saleh.ibrahim@example.com
+1017,Abdullah Nasser,24,Unknown,Aden,2.6,79.0,Active,4.0,68.5,"['Programming', 'Software Design']",8.0,Good,Good,abdullah.nasser@example.com
+1018,Hassan Ali,20,Computer Science,Taiz,3.8,96.0,Active,6.0,93.0,"['AI', 'Machine Learning', 'Python']",5.0,Excellent,Good,hassan.ali@example.com
+1019,Fahad Salem,22,Information Systems,Ibb,3.3,90.0,Active,5.0,85.0,"['Database', 'Systems Analysis']",6.0,Very Good,Good,fahad.salem@example.com
+1020,Nabil Hassan,21,Computer Science,Sana'A,3.5,93.0,Active,5.0,87.5,"['Python', 'Algorithms', 'Database']",6.0,Excellent,Good,nabil.hassan@example.com
+1021,Samir Ahmed,22,Unknown,Hodeidah,3.1,88.5,Active,5.0,80.5,"['Software Engineering', 'Testing']",6.0,Very Good,Good,samir.ahmed@example.com
